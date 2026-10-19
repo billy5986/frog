@@ -1,1 +1,16 @@
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/卵巢.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/大腸.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/小腸.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/心臟.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/睪丸.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/肝臟.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/肺(扁).png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/肺(蓬).png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/胃.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/胰臟.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/脂肪體.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/脾臟.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/腎臟.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/腸繫膜.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/膽囊.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/輸卵管.png
