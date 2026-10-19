@@ -1,8 +1,8 @@
-https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/卵巢.png 
-https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/大腸.png 
-https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/小腸.png 
-https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/心臟.png
-https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/睪丸.png
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/卵巢.png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/大腸.png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/小腸.png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/心臟.png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/睪丸.png <br>
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/肝臟.png
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/肺(扁).png
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/肺(蓬).png
