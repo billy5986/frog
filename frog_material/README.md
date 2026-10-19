@@ -14,3 +14,8 @@ https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/腎臟.png <br>
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/腸繫膜.png <br>
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/膽囊.png <br>
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/輸卵管.png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/躺著的青蛙(+刀痕).png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/躺著的青蛙.png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/青蛙解剖(打開皮).png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/青蛙解剖(打開皮+刀痕).png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/青蛙解剖(打開肚子).png <br>
