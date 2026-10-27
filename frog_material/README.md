@@ -19,3 +19,5 @@ https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/躺著的青蛙.pn
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/青蛙解剖(打開皮).png <br>
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/青蛙解剖(打開皮+刀痕).png <br>
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/青蛙解剖(打開肚子).png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/青蛙肚子.png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/青蛙解剖(空肚子).png <br>
