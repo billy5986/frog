@@ -25,3 +25,4 @@ https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/躺著的青蛙(�
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/躺著的青蛙(右開皮).png <br>
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/雌蛙(左開肚子.png <br>
 https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/雌蛙(右開肚子).png <br>
+https://cdn.jsdelivr.net/gh/billy5986/frog@main/frog_material/器官塞青蛙.png <br>
